@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://YouJIN06.github.io</id>
     <title>YouJIN</title>
-    <updated>2020-03-31T02:47:47.606Z</updated>
+    <updated>2020-12-25T14:34:12.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://YouJIN06.github.io"/>
     <link rel="self" href="https://YouJIN06.github.io/atom.xml"/>
@@ -10,4 +10,48 @@
     <logo>https://YouJIN06.github.io/images/avatar.png</logo>
     <icon>https://YouJIN06.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, YouJIN</rights>
+    <entry>
+        <title type="html"><![CDATA[SHUFE英语小组读书会]]></title>
+        <id>https://YouJIN06.github.io/post/shufereading/</id>
+        <link href="https://YouJIN06.github.io/post/shufereading/">
+        </link>
+        <updated>2020-12-25T13:10:10.000Z</updated>
+        <summary type="html"><![CDATA[<iframe 
+    width="800" 
+    height="450" 
+    src="https://player.youku.com/embed/XNTAyNjEwMzQ5Ng=="
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
+]]></summary>
+        <content type="html"><![CDATA[<iframe 
+    width="800" 
+    height="450" 
+    src="https://player.youku.com/embed/XNTAyNjEwMzQ5Ng=="
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
+<!-- more -->
+<p>📚关于英语读书会：<br>
+    在入学的时候被告知，每个学生到了期末会面临这样的一个任务：制作并提交一个小组读书会的视频！全程使用英语！拜托，中文的读书会都没有办法组织起来，更何况是英文的啊…而且平常根本没有考虑过这些问题的我，到了期末踩着一个又一个ddl度过每一天，可以说是非常疲惫了…</p>
+<!-- more -->
+<p>📕关于书籍的选择：<br>
+    这个其实很早就有了定数了，在大概十一月份的时候，英语老师突然提起来读书会的事情，所以临时在小组里面讨论了一下。我们一致认为，要挑一本简单易读的英语文本（当初居然没想到可以直接阅读中文译本啊），所以就挑选了温馨（主要是简短）的《圣诞忆旧集》。我们对作者杜鲁门·卡波蒂根本没有什么了解。我个人在读完这本书之后，以为他应该是个童话作家，结果居然是一个写小说太出名而生活在纸醉金迷的上流人士（？），但是《圣诞忆旧集》没有那么“冷血”（指杜鲁门的代表作之一）啦！<br>
+        <img src="https://YouJIN06.github.io/post-images/1608904904321.jpg" alt="" loading="lazy"><br>
+      （图源百度。说实话老杜年轻时真的很帅。）</p>
+<!-- more -->
+<p>🎥关于拍摄：<br>
+    在期末的ddl中，我艰难地召集了小组成员，并且约定在周末的时候一起拍摄这个视频。我还在群里面说，希望大家可以写好稿子并且脱稿……但是其实我自己也是在拍摄前一天晚上临时写的稿子😅，真的忙到崩溃，崩溃到哭。好在大家也在百忙之中写好了属于自己的稿子。我的计划是每个人说一段话，中间象征性加上一句话作为过渡，然后加个开场白什么的。因为实在没有时间想剧本了，就算想出来剧本，拍摄起来肯定也很耗费时间。选场景的时候，我本来想去学生活动中心，但是无奈于场所太过开放，拍起来太尴尬，会有很多这样那样的杂音，所以预约了图书馆的多媒体研讨室。这个决定实在是太草率了，我在拍摄的前三天都没有想预约的事情，导致了预约的时候所有时间都被排满了，除了早八。你知道在周日的时候，起床赶早八是种什么痛苦的感觉吗？我内心充满了悲愤，以及对组员的愧疚。而且我生怕睡过头，半夜都有惊醒……好在最后时间充裕，大家也很配合，团结协作完成了拍摄。</p>
+<!-- more -->
+<p>💡一些小细节：<br>
+①在剪辑的时候，我手动删掉了很多大家读错的地方，如果仔细看的话，会发现有人动了嘴却没有发出声音（？）<br>
+②成品当中居然把成员的名字打错了……好在放视频那天她没有出席现场（被打）<br>
+③字幕是一句一句加上去的，完全复制了大家的稿子，所以不可避免有一些语法错误<br>
+④结尾中的念白是有道翻译器读的，放了0.8倍速所以声音有点粗，没想到吧！<br>
+⑤英语老师在看的时候真的很给面子（？）一直在点头。<br>
+⑥英贤图书馆的小组研习室的屏幕可以连接电脑，所以可以用来看电影打游戏……（？）<br>
+⑦大家都没有脱稿！都在镜头拍不到的地方放了提词器，尤其是媛媛，她的电脑提词器就摆在小胥的帽子（？）下面，拍起来就像是对小胥说话一样！！笑死了！！</p>
+<p>    最后这个视频被当做优秀案例在英语课上展示啦，我很高兴，虽然只占总成绩的五分…（平常迟到被扣的分已经超过了五分了吧）</p>
+]]></content>
+    </entry>
 </feed>
