@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://YouJIN06.github.io</id>
     <title>YouJIN</title>
-    <updated>2021-04-07T13:11:40.023Z</updated>
+    <updated>2021-04-07T13:14:30.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://YouJIN06.github.io"/>
     <link rel="self" href="https://YouJIN06.github.io/atom.xml"/>
@@ -16,12 +16,17 @@
         <link href="https://YouJIN06.github.io/post/guan-yu-shu-chu-shu-ju-de-dui-qi-fang-shi/">
         </link>
         <updated>2021-04-07T13:09:02.000Z</updated>
+        <summary type="html"><![CDATA[<h3 id="发现问题fibonacci数列">发现问题——Fibonacci数列</h3>
+<p>​		用数组来处理求Fibonacci数列问题，输出斐波纳彻序列前40个数据，每行输出5个数据。</p>
+<figure data-type="image" tabindex="1"><img src="https://YouJIN06.github.io/post-images/1617801249180.jpg" alt="" loading="lazy"></figure>
+]]></summary>
         <content type="html"><![CDATA[<h3 id="发现问题fibonacci数列">发现问题——Fibonacci数列</h3>
 <p>​		用数组来处理求Fibonacci数列问题，输出斐波纳彻序列前40个数据，每行输出5个数据。</p>
-<figure data-type="image" tabindex="1"><img src="C:%5CUsers%5CYouJIN06%5CDesktop%5CQQ%E6%88%AA%E5%9B%BE20210407205542.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://YouJIN06.github.io/post-images/1617801249180.jpg" alt="" loading="lazy"></figure>
+<!-- more -->
 <p>​		输出效果如上图所示。</p>
 <p>​		不作任何特殊的处理，我只使用数组和循环进行代码的编写，得到的结果是这样的：</p>
-<figure data-type="image" tabindex="2"><img src="C:%5CUsers%5CYouJIN06%5CDesktop%5CQQ%E6%88%AA%E5%9B%BE20210407205734.jpg" alt="QQ截图20210407205734" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://YouJIN06.github.io/post-images/1617801253763.jpg" alt="" loading="lazy"></figure>
 <p>​		这显然不够美观，而且不符合作业的要求。在资料的搜寻下我了解到了“、setw()函数以及setiosflags(ios::left)的控制方法。这个方法来自于头文件iomanip，所以要提前声明。系统默认是左对齐，将left改为right，就可以从左对齐变为右对齐。配合setw()函数，放在要输出的内容前面，括号中的数值表示输出内容占几个格子，不足的会用空格补齐。</p>
 <p>​		代码如下：</p>
 <pre><code class="language-cpp">#include&lt;iostream&gt;
@@ -46,7 +51,7 @@ int main()
 
 </code></pre>
 <p>​		最后我就得到想要的效果了。</p>
-<figure data-type="image" tabindex="3"><img src="C:%5CUsers%5CYouJIN06%5CDesktop%5CQQ%E6%88%AA%E5%9B%BE20210407210239.jpg" alt="QQ截图20210407210239" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://YouJIN06.github.io/post-images/1617801258742.jpg" alt="" loading="lazy"></figure>
 <h3 id="目前遇到过的包含在iomanip中的指令">目前遇到过的包含在iomanip中的指令</h3>
 <p>​		除了setiosflags(ios::right)可以控制数据的对齐，还有setiosflags(ios::fixed)可以固定输出的格式，这样我就可以控制输出数据的小数点位数，当然，要配合setprecision()函数使用。例如：</p>
 <pre><code class="language-cpp">cout&lt;&lt;setiosflags(ios::fixed)&lt;&lt;setprecision(10);
