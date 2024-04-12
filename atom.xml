@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://youjin06.github.io</id>
+    <title>YOUJIN个人站</title>
+    <updated>2024-04-12T08:08:20.296Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://youjin06.github.io"/>
+    <link rel="self" href="https://youjin06.github.io/atom.xml"/>
+    <subtitle>自命不凡的数学学习者都是梦想家！</subtitle>
+    <logo>https://youjin06.github.io/images/avatar.png</logo>
+    <icon>https://youjin06.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, YOUJIN个人站</rights>
+    <entry>
+        <title type="html"><![CDATA[个人作品集]]></title>
+        <id>https://youjin06.github.io/post/ge-ren-zuo-pin-ji/</id>
+        <link href="https://youjin06.github.io/post/ge-ren-zuo-pin-ji/">
+        </link>
+        <updated>2024-04-01T07:34:05.000Z</updated>
+    </entry>
+</feed>
