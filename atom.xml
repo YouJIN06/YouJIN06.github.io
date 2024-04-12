@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://youjin06.github.io</id>
+    <title>YOUJIN个人站</title>
+    <updated>2024-04-12T07:49:01.904Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://youjin06.github.io"/>
+    <link rel="self" href="https://youjin06.github.io/atom.xml"/>
+    <subtitle>自命不凡的数学学习者都是梦想家！</subtitle>
+    <logo>https://youjin06.github.io/images/avatar.png</logo>
+    <icon>https://youjin06.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, YOUJIN个人站</rights>
+    <entry>
+        <title type="html"><![CDATA[个人作品集]]></title>
+        <id>https://youjin06.github.io/post/ge-ren-zuo-pin-ji/</id>
+        <link href="https://youjin06.github.io/post/ge-ren-zuo-pin-ji/">
+        </link>
+        <updated>2024-04-01T07:34:05.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="️文创篇">✒️文创篇</h2>
+<h3 id="上财104年校庆主题信纸">上财104年校庆主题信纸</h3>
+<figure data-type="image" tabindex="1"><img src="https://youjin06.github.io/post-images/1712905076173.jpg" alt="" title="上财104年校庆主题信纸" loading="lazy"></figure>
+<h3 id="点亮主题logo设计与周边产品效果图">“点亮”主题LOGO设计与周边产品效果图</h3>
+<figure data-type="image" tabindex="2"><img src="https://youjin06.github.io/post-images/1712905083575.jpg" alt="" title="帆布包" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://youjin06.github.io/post-images/1712905089053.jpg" alt="" title="笔记本" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="https://youjin06.github.io/post-images/1712905093477.jpg" alt="" title="水杯" loading="lazy"></figure>
+<h2 id="海报篇">🎨海报篇</h2>
+<h3 id="迎新易拉宝">迎新易拉宝</h3>
+<figure data-type="image" tabindex="5"><img src="https://youjin06.github.io/post-images/1712905909974.jpg" alt="" loading="lazy"></figure>
+<h3 id="学院文化节主视觉海报">学院文化节主视觉海报</h3>
+<figure data-type="image" tabindex="6"><img src="https://youjin06.github.io/post-images/1712905866180.jpg" alt="" loading="lazy"></figure>
+<h3 id="国庆节海报">国庆节海报</h3>
+<figure data-type="image" tabindex="7"><img src="https://youjin06.github.io/post-images/1712906108785.jpg" alt="" loading="lazy"></figure>
+<h3 id="庆祝建党100周年海报">庆祝建党100周年海报</h3>
+<figure data-type="image" tabindex="8"><img src="https://youjin06.github.io/post-images/1712905686949.jpg" alt="" loading="lazy"></figure>
+<h2 id="️视频篇">✒️视频篇</h2>
+<h3 id="动态壁纸">动态壁纸</h3>
+<p>说明：利用PS绘画分层、AE脚本制作特效，有点类似于live2D技术</p>
+<iframe height=400 width=680 src="//player.bilibili.com/player.html?aid=298176009&bvid=BV1GF411g78F&cid=575575261&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<h3 id="综漫混剪">综漫混剪</h3>
+<p>说明：结合背景音乐的节奏，用PR对视频素材进行剪辑</p>
+<iframe height=400 width=680 src="//player.bilibili.com/player.html?aid=925073902&bvid=BV18T4y157VU&cid=169783042&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<br/>
+<br/>
+<iframe height=400 width=680 src="//player.bilibili.com/player.html?aid=96384148&bvid=BV1fE41137YX&cid=164543712&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+]]></content>
+    </entry>
+</feed>
